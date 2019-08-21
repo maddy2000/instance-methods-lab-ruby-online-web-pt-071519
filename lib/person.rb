@@ -7,7 +7,7 @@ class Person
     puts "The Person is walking"
     ada = Person.new
     ada walk
-  end
-  end 
+end
+end 
 end
 
