@@ -1,9 +1,9 @@
 class Person
-  def talk in Person
+  def talk to Your Person
     puts "Hello World!"
     ada = Person.new
     ada.talk
-  def walk in Person
+  def walk to your Person
     puts "The Person is walking"
     ada = Person.new
     ada walk
