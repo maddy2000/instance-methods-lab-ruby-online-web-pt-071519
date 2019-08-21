@@ -1,5 +1,5 @@
 class Person
-  def talk to Your Person
+  def talk to your Person
     puts "Hello World!"
     ada = Person.new
     ada.talk
